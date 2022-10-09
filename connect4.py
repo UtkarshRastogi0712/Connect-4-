@@ -133,4 +133,4 @@ while True:
             column(position)
     if game_state:
         draw()
-        
+        #true game for begginers
